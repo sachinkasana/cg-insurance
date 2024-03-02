@@ -1,0 +1,13 @@
+.products-section {
+    padding: 50px 0; /* Adjust as needed */
+  }
+  
+  .img-container {
+    text-align: center;
+  }
+  
+  .img-fluid {
+    max-width: 100%; /* Ensure the image doesn't exceed its container */
+    height: auto;
+  }
+  

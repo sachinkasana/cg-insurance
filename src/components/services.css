@@ -1,0 +1,13 @@
+.services-section {
+  padding: 50px 0; /* Adjust as needed */
+}
+
+.service-icon {
+  width: 60px; /* Set your desired width for the icons */
+  height: 60px; /* Set your desired height for the icons */
+  margin-bottom: 20px; /* Adjust margin as needed */
+}
+.container{
+    justify-content: space-around;
+    flex-direction: row;
+}

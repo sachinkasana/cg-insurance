@@ -1,0 +1,16 @@
+/* src/components/Contact.css */
+
+.contact-section {
+    text-align: center;
+    padding: 50px 0; /* Adjust as needed */
+  }
+  
+  
+  .contact-header {
+    margin-bottom: 20px;
+  }
+  
+  .contact-details {
+    text-align: left;
+  }
+  

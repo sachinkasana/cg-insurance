@@ -1,0 +1,50 @@
+/* src/components/navbar.css */
+
+.navbar {
+    background-color: #ffffff; /* Set your desired background color */
+    padding: 15px 0; /* Adjust padding as needed */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow if desired */
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navbar-logo {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #333; /* Set your desired text color */
+    font-size: 1.5rem; /* Set your desired font size */
+  }
+  
+  .navbar-logo img {
+    max-width: 50px; /* Set your desired max width for the logo */
+    max-height: 50px; /* Set your desired max height for the logo */
+    margin-right: 10px; /* Adjust margin as needed */
+  }
+  
+  .navbar-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .navbar-links li {
+    margin-right: 20px; /* Adjust margin between links as needed */
+  }
+  
+  .navbar-links a {
+    text-decoration: none;
+    color: #333; /* Set your desired text color */
+    font-size: 1rem; /* Set your desired font size */
+    transition: color 0.3s ease; /* Add a smooth color transition on hover */
+  }
+  
+  .navbar-links a:hover {
+    color: #f89921; /* Set your desired hover color */
+  }
+  
