@@ -1,0 +1,9 @@
+/* src/components/footer.css */
+.sticky-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #757677; /* Adjust the background color as needed */
+    padding: 10px; /* Adjust the padding as needed */
+    text-align: center;
+  }
